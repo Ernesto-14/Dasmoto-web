@@ -1,4 +1,4 @@
-.header.h1 {
+.header h1 {
     font-family: Helvetica;
     font-size: 100px;
     font-weight: bold;
@@ -6,7 +6,7 @@
     text-align: center;
 }
 
-.brushes.h2 {
+.brushes h2 {
     font-family: Helvetica;
     font-size: 32px;
     font-weight: bold;
@@ -14,7 +14,7 @@
     background-color: mediumspringgreen;
 }
 
-.frames.h2 {
+.frames h2 {
     font-family: Helvetica;
     font-size: 32px;
     font-weight: bold;
@@ -22,7 +22,7 @@
     background-color: lightcoral;
 }
 
-.paint.h2 {
+.paint h2 {
     font-family: Helvetica;
     font-size: 32px;
     font-weight: bold;
